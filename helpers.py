@@ -1,3 +1,8 @@
+#Nombre: Andrea Conde Pérez
+#Materia: Estructura de datos
+#Carrera: Ingeniería en software 3er nivel Aula - C1
+
+
 import os
 os.system("cls")
 class Calculo:
