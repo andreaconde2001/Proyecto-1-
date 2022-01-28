@@ -1,3 +1,6 @@
+#Nombre: Andrea Conde Pérez
+#Materia: Estructura de datos
+#Carrera: Ingeniería en software 3er nivel Aula - C1
 from cargo import Cargo
 from departamento import Departamento
 from empleado import Empleado
